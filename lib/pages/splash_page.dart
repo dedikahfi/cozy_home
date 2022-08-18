@@ -1,5 +1,6 @@
 import 'package:cozy_home/theme.dart';
 import 'package:flutter/material.dart';
+import 'home_page.dart';
 
 class SplashPage extends StatelessWidget {
   const SplashPage({Key? key}) : super(key: key);
@@ -46,7 +47,7 @@ class SplashPage extends StatelessWidget {
                   ),
                   Text(
                     "Stop membuang banyak waktu\npada tempat yang tidak habitable",
-                    style: greyTextStyle.copyWith(
+                    style: grayTextStyle.copyWith(
                       fontSize: 16,
                     ),
                   ),
@@ -58,7 +59,14 @@ class SplashPage extends StatelessWidget {
                     height: 50,
                     // ignore: deprecated_member_use
                     child: RaisedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const HomePage(),
+                          ),
+                        );
+                      },
                       color: purpleColor,
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(
