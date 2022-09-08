@@ -33,6 +33,13 @@ class TipsCard extends StatelessWidget {
               )
             ],
           ),
+          Spacer(),
+          IconButton(
+              onPressed: () {},
+              icon: Icon(
+                Icons.chevron_right,
+                size: 24,
+              ))
         ],
       ),
     );
