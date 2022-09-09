@@ -1,10 +1,7 @@
 
 # Cozy Home
 
-Cozy Home is an app about finding a cozy home. 
-
-This project is a starting point for a Flutter application.
-
+Cozy Home is an app about finding a cozy home, this project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
