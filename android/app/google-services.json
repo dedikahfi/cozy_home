@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210360168660",
+    "project_id": "cozy-home-eaf99",
+    "storage_bucket": "cozy-home-eaf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210360168660:android:cfb311878b3bc3aa648b41",
+        "android_client_info": {
+          "package_name": "com.dedikahfi.cozy_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210360168660-m99g5dd8jtuq0qke7076n18mdb0551dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKVEbC7PKtNuH5pSMdTJEczW4djPWWYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210360168660-m99g5dd8jtuq0qke7076n18mdb0551dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
