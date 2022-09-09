@@ -11,7 +11,13 @@ Cozy Home is an app about finding a cozy home. This project build with use frame
 <img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Splash.png" width="150px" height="300px">
 </td>
 <td>
-<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Splash.png" width="150px" height="300px">
+<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Home.png" width="150px" height="300px">
+</td>
+<td>
+<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Details.png" width="150px" height="300px">
+</td>
+<td>
+<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/404.png" width="150px" height="300px">
 </td>
 </tr>
 </table>
