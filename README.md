@@ -30,4 +30,4 @@ samples, guidance on mobile development, and a full API reference.
 </table>
 
 ## Documentation
-[Documentation API - Recomended Space](https://bwa-cozy.herokuapp.com/recommended-spaces)
+[Documentation API - Recomended Space in Home Page](https://bwa-cozy.herokuapp.com/recommended-spaces)
