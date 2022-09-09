@@ -6,7 +6,7 @@ Cozy Home is an app about finding a cozy home. This project build with use frame
 
 ## Demo
 
-<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Splash.png" width="100px" height="300px">
+<img src="https://github.com/dedikahfi/cozy_home/blob/main/assets/demo/Splash.png" width="150px" height="300px">
 
 This project is a starting point for a Flutter application.
 
